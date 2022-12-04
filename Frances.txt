@@ -1,0 +1,51 @@
+~~~~~~~~~~~~~~
+Pregunta 1: ¿Cual alternativa significa pan en frances?
+[a]: Baguette
+[b]: Pain
+[c]: Chariot
+b
+Pregunta 2: ¿Cual alternativa significa hola en frances?
+[a]: Bonjour
+[b]: Hello
+[c]: Salut
+c
+Pregunta 3: ¿Cual alternativa significa pequeño en frances?
+[a]: Petite
+[b]: Cerise
+[c]: Chien
+a
+Pregunta 4: ¿Cual alternativa significa casa en frances?
+[a]: Madame
+[b]: Maison
+[c]: Chateau
+b
+Pregunta 5: ¿Cual alternativa significa español en frances?
+[a]: Spain
+[b]: Espagnol
+[c]: Ravioli
+b
+Pregunta 6: ¿Cual alternativa donde estas en frances?
+[a]: Chateau
+[b]: Immeuble
+[c]: COnstruire
+b
+Pregunta 7: ¿Cual alternativa significa comida en frances?
+[a]: Madame
+[b]: Repas
+[c]: Chien
+b
+Pregunta 8: ¿Cual alternativa significa buenos dias en frances?
+[a]: Bonne nuit
+[b]: Bonjour
+[c]: Good Morning
+b
+Pregunta 9: ¿Cual alternativa significa peligro en frances?
+[a]: adieu
+[b]: fais attention
+[c]: danger
+c
+Pregunta 10: ¿Cual alternativa significa buenas noches en frances?
+[a]: Baguette
+[b]: Bonne nuit
+[c]: Adieu
+b

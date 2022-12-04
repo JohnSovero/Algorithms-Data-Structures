@@ -1,0 +1,51 @@
+~~~~~~~~~~~~~~
+Pregunta 1: ¿Cual alternativa significa manzana en ingles? 
+[a]: Apple  
+[b]: Pineapple  
+[c]: Strawberry\n
+a
+Pregunta 2: Marque la opcion gramaticalmente correcta 
+[a]: I was sleeping
+[b]: I was sleep
+[c]: I went sleeping
+a
+Pregunta 3: Marque la opcion gramaticalmente incorrecta 
+[a]: Why would you do that?
+[b]: Why I done that?
+[c]: Why was that for?
+b
+Pregunta 4: Marque la opcion gramaticalmente incorrecta  
+[a]: I went a present for my birthday
+[b]: I want a present for my birthday
+[c]: I really wanted this present for my birthday
+a
+Pregunta 5: ¿Cual alternativa esta en past simple?
+[a]: went
+[b]: going
+[c]: to go
+a
+Pregunta 6: ¿Cual alternativa esta en past participle?
+[a]: Did
+[b]: Do
+[c]: Done
+c
+Pregunta 7: ¿Cual alternativa significa auto en ingles? 
+[a]: Bike
+[b]: Car
+[c]: Plane
+b
+Pregunta 8: ¿Cual alternativa significa hermano en ingles? 
+[a]: Brother
+[b]: Sister
+[c]: Grandson
+a
+Pregunta 9: ¿Cual alternativa significa perro en ingles? 
+[a]: Cat
+[b]: Lion
+[c]: Dog
+c
+Pregunta 10: ¿Cual alternativa significa comida en ingles? 
+[a]: Burger
+[b]: Fries
+[c]: Food
+c
